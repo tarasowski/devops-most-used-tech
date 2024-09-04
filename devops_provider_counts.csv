@@ -1,0 +1,46 @@
+provider,count
+Infrastructure,2161
+CLI,2006
+Pipeline,1816
+Container,1634
+AWS,1425
+Git,1379
+Azure,1222
+Monitor,989
+Certification,843
+Kubernetes,806
+Terraform,759
+Jenkins,706
+Python,575
+Linux,529
+Agile,491
+Docker,488
+API,411
+Software Development,383
+Ansible,371
+SQL,333
+Java,313
+Database,292
+Shell,283
+Bash,240
+GitLab,232
+IAC,227
+Programming,202
+Continuous Integration,190
+Containerization,182
+Orchestration,178
+GCP,175
+Powershell,174
+DevSecOps,134
+CloudFormation,126
+Microservices,111
+JavaScript,108
+Scrum,106
+Coding,96
+GitHub Actions,91
+Puppet,84
+Lambda,83
+Continuous Delivery,76
+Chef,68
+Continuous Deployment,62
+Cloud Native,41
